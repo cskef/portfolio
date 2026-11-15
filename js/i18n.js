@@ -12,31 +12,31 @@
     },
     "nav.skip": { fr: "Aller au contenu", en: "Skip to content" },
     "nav.projects": { fr: "Projets", en: "Projects" },
-    "nav.path": { fr: "Parcours", en: "Path" },
+    "nav.path": { fr: "Parcours", en: "Education" },
     "nav.skills": { fr: "Compétences", en: "Skills" },
     "nav.contact": { fr: "Contact", en: "Contact" },
     "nav.cv": { fr: "CV", en: "Resume" },
 
     "hero.status": {
-      fr: "À la recherche d'un stage de fin d'études",
-      en: "Looking for a final-year engineering internship",
+      fr: "À la recherche d'un stage",
+      en: "Looking for an internship",
     },
     "hero.title": {
-      fr: '<span class="line">Je conçois des <em>systèmes</em></span><span class="line">qui apprennent à <em>décider.</em></span>',
-      en: '<span class="line">I build <em>systems</em></span><span class="line">that learn to <em>decide.</em></span>',
+      fr: '<span class="line">Je conçois des <em>systèmes</em></span><span class="line">qui restaurent l\'<em>équilibre humain.</em></span>',
+      en: '<span class="line">I build <em>systems</em></span><span class="line">that restore <em>human balance.</em></span>',
     },
     "hero.title.aria": {
-      fr: "Je conçois des systèmes qui apprennent à décider.",
-      en: "I build systems that learn to decide.",
+      fr: "Je conçois des systèmes qui restaurent l'équilibre humain.",
+      en: "I build systems that restore human balance.",
     },
     "hero.sub": {
-      fr: "Frank KEYANYEM, élève-ingénieur en double diplôme entre l'École Nationale Supérieure Polytechnique de Yaoundé et l'INP Toulouse N7. Je développe des compétences utile pour un travail de frontière entre intelligence artificielle et logiciel embarqué.",
-      en: "Frank KEYANYEM, dual-degree engineering student between the École Nationale Supérieure Polytechnique de Yaoundé and INP Toulouse N7. I am developing skills useful for work at the intersection of artificial intelligence and embedded software.",
+      fr: "Élève-ingénieur en systèmes logiciels et intelligence artificielle, je m'intéresse à la compréhension de l'humain et à son équilibre psychologique. Convaincu que la technologie peut, au-delà de l'usage, rendre l'humain plus heureux, je souhaite en apprendre davantage sur la santé mentale.",
+      en: "A software systems and artificial intelligence engineering student, I am drawn to understanding people and their psychological well-being. Convinced that technology can go beyond usefulness and make people happier, I want to learn more about mental health.",
     },
     "hero.explore": { fr: "Explorer les projets", en: "Explore the projects" },
     "hero.github": { fr: "GitHub ↗", en: "GitHub ↗" },
 
-    "projects.title": { fr: "Quelques projets développés", en: "Some projects" },
+    "projects.title": { fr: "Quelques projets développés", en: "Selected projects" },
     "projects.subtitle": { fr: "La démarche compte plus que le nombre.", en: "The approach matters more than the count." },
 
     "project1.index": { fr: "Réalité augmentée · équipe de 3", en: "Augmented reality · team of 3" },
@@ -86,7 +86,7 @@
     "more.title": { fr: "Autres travaux", en: "Other work" },
     "more.tp1": {
       fr: "Entraînement d'un modèle MNIST exposé via une API Flask (/predict), avec Dockerfile et suivi MLflow.",
-      en: "Training of an MNIST model exposed through a Flask API (/predict), with a Dockerfile and MLflow tracking.",
+      en: "An MNIST model trained and served through a Flask API (/predict), with a Dockerfile and MLflow tracking.",
     },
     "more.all": { fr: "Tous les dépôts ↗", en: "All repositories ↗" },
 
@@ -95,24 +95,24 @@
     "project.repo": { fr: "Dépôt GitHub ↗", en: "GitHub repo ↗" },
     "project.report": { fr: "Rapport de conception ↗", en: "Design report ↗" },
 
-    "path.title": { fr: "Parcours", en: "Path" },
-    "path.subtitle": { fr: "Mobilité encadrée.", en: "Structured mobility." },
+    "path.title": { fr: "Parcours", en: "Education" },
+    "path.subtitle": { fr: "Mobilité encadrée.", en: "A dual-degree exchange program." },
 
-    "path1.date": { fr: "Sept 2026 - en cours", en: "Sept 2026 - ongoing" },
-    "path1.title": { fr: "Ingénieur en Systèmes Logiciels", en: "Software Systems Engineering" },
+    "path1.date": { fr: "Sept 2026 - en cours", en: "Sept 2026 – present" },
+    "path1.title": { fr: "Ingénieur en Systèmes Logiciels", en: "Engineering degree in Software Systems" },
     "path1.desc": { fr: "Double diplôme, spécialisation systèmes logiciels.", en: "Dual degree, software systems specialization." },
 
-    "path2.date": { fr: "Sept 2022 - en cours", en: "Sept 2022 - ongoing" },
-    "path2.title": { fr: "Ingénieur en Art & Intelligence Artificielle", en: "Art & Artificial Intelligence Engineering" },
+    "path2.date": { fr: "Sept 2022 - en cours", en: "Sept 2022 – present" },
+    "path2.title": { fr: "Ingénieur en Art & Intelligence Artificielle", en: "Engineering degree in Art & Artificial Intelligence" },
     "path2.desc": {
       fr: "4ème au concours national d'entrée (+1500 candidats). ",
-      en: "Ranked 4th nationwide at the entrance exam (1,500+ candidates).",
+      en: "Ranked 4th in the national entrance exam (1,500+ candidates).",
     },
 
     "skills.title": { fr: "Compétences", en: "Skills" },
     "skills.subtitle": { fr: "Regroupées par famille d'ingénierie.", en: "Grouped by engineering discipline." },
     "skills.group1": { fr: "Programmation", en: "Programming" },
-    "skills.group1.item1": { fr: "Python : scikit-learn, NumPy, Pandas, Matplotlib", en: "Python : scikit-learn, NumPy, Pandas, Matplotlib" },
+    "skills.group1.item1": { fr: "Python : scikit-learn, NumPy, Pandas, Matplotlib", en: "Python: scikit-learn, NumPy, Pandas, Matplotlib" },
     "skills.group1.item2": { fr: "Java (POO)", en: "Java (OOP)" },
     "skills.group1.item3": { fr: "JavaScript", en: "JavaScript" },
     "skills.group2": { fr: "Mathématiques & IA", en: "Mathematics & AI" },
@@ -130,7 +130,7 @@
 
     "github.title": { fr: "Activité GitHub", en: "GitHub activity" },
     "github.repos": { fr: "dépôts publics", en: "public repos" },
-    "github.stars": { fr: "étoiles cumulées", en: "stars combined" },
+    "github.stars": { fr: "étoiles cumulées", en: "total stars" },
     "github.lang": { fr: "langage principal", en: "main language" },
 
     "contact.title": { fr: "Vous pouvez me contacter.", en: "Feel free to reach out." },
